@@ -46,17 +46,17 @@ const featuresList = [
   const testimonialsList = [
     {
       review:
-        "Since I started using the app, my productivity has skyrocketed. The reminder feature keeps me on track and ensures that I never miss an important task or deadline. Highly recommended!",
+        "My Inspiration यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम।।18.78",
       image: "images/testimonial1.png",
-      name: "Aryan Raj",
+      name: "Aryan Raj (Founder & CEO)",
       designation: "Founder of Dream Technology",
     },
     {
       review:
         "This app has completely changed the way I manage my tasks. The advanced features and intuitive interface make it a joy to use. I can't imagine my work life without it!",
       image: "images/testimonial2.png",
-      name: "Sarah Johnson",
-      designation: "Product Manager, Google",
+      name: "Naushad Alam(co-founder)",
+      designation: "Product Manager, Service",
     },
     {
       review:
